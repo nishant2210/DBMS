@@ -44,7 +44,7 @@ VALUES
 (102, 'Amit', 'ECE', 21, '98xxxxxxxx','Saharsa',4),
 (103, 'Ashish', 'CSE', 22, '97xxxxxxxxx','Patna',5),
 (104, 'Piyush', 'IT', 19, '94xxxxxxxx','Motihari',2),
-(105, 'Rohit', 'ME', 23, '95xxxxxxxx','Bhagalpur',6);
+(105, 'Rahul', 'ME', 23, '95xxxxxxxx','Bhagalpur',6);
 
 -- 10. Display All Records
 SELECT * FROM Student;
